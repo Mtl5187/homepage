@@ -37,7 +37,7 @@ $('.team-title').prependTo('.homepage .section_TeamList .o-container.c-customsec
 
 
 //Helpful Content Title
-$('.helpful-title').prependTo('.homepage #section_9 .o-container.c-customsection__container');
+$('.helpful-title').prependTo('.homepage #section_8 .o-container.c-customsection__container');
 
 // Logo Resize
 $(window).scroll(function() {
